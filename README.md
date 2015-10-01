@@ -1,2 +1,2 @@
 # sample-repo
-just for learnign git
+just for learning git
